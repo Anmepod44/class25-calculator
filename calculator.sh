@@ -10,3 +10,7 @@ subtract() {
     echo $(($1 - $2))
 }
 
+# This is a conflict with the master branch
+multiply() {
+    echo $(($1 - $2))
+}   
