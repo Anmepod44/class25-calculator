@@ -9,4 +9,6 @@ add() {
 subtract() {
     echo $(($1 - $2))
 }
-
+# this is a multiplication 
+multiply() {
+      echo $(($1 * $2))}
