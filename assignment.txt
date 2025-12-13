@@ -1,0 +1,10 @@
+1. Create a folder : class25-assignment
+2. Initialize a git repo : git init
+3. Make some changes or create a file
+4. Stage the changes :  git add 
+5. Commit the changes :  git commit -m "desc"
+6. Create a repository on github : class25-assignment
+7. Set up the remote repository on you local machine : git remote add origin [github url]
+8. push changes to the remote repository [git push]
+
+Deliverable : A link to your github repository
