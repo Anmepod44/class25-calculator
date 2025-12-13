@@ -12,3 +12,7 @@ subtract() {
 # this is a multiplication 
 multiply() {
       echo $(($1 * $2))}
+
+# divide function      
+divide() {
+      echo $(($1 / $2))}
